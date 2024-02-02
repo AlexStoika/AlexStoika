@@ -24,9 +24,10 @@
 <div>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="200" align="right"/>
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" height="200" align="left"/>
-  <p>I'm QA Software Engineer with experience in <br>
-     QA Automation and Manual Testing.</p>
- </div>
+  </div>  
+<p>I'm QA Software Engineer with experience in <br>
+QA Automation and Manual Testing.</p>
+
 <br> 
 <br>
 <br>
