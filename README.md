@@ -27,6 +27,7 @@
 <div>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="200" align="right"/>
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" height="200" align="left"/>
+
 </div>
   <b>
  </div>
@@ -37,9 +38,8 @@
 <br> 
 <br>
 <br>
-<br>
-<br>
-<br>
+
+
 
 
 ---
@@ -67,6 +67,7 @@
 <br>
 <br>
 
+![](https://komarev.com/ghpvc/?username=AlexStoika&color=yellow)
 
  
 
