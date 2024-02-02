@@ -22,10 +22,18 @@
 <br>
 <br>
 
+
+
 <div>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="200" align="right"/>
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" height="200" align="left"/>
- </div>  
+
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4000&pause=1000&random=false&width=500&height=60&lines=I'm+QA+Software+Engineer+with+experience+in+QA+Automation+and+Manual+Testing;QA+Automation+and+Manual+Testing" alt="Typing SVG" align="centre" /></a>
+  <b>
+  
+ 
+ 
+</div>  
 
 <br> 
 <br>
@@ -37,8 +45,8 @@
 
 ---
 
-   
-### :hammer_and_wrench: Languages and Tools :   
+   ### :hammer_and_wrench: Languages and Tools  
+
 &ensp;&emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="Github" width="35"/>
 &ensp;&emsp;<img alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
 &ensp;&ensp;<img src="https://camo.githubusercontent.com/a790e8e5e2b7edcf9ef24e2cbccb1802f4fedb001a6f66a17cad37f57ba85b15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667" title="Java" width="48"/><br>
@@ -59,10 +67,6 @@
 &ensp;&emsp;<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" title="SQL" width="35"/>
 <br>
 <br>
-
----
-
-
 
 
  
