@@ -10,10 +10,9 @@
  </div>
  <br>
   <div name="href">
-
 <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+World" alt="Typing SVG" align="left" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F79100&random=false&width=435&lines=Welcome+to+my+GitHub" alt="Typing SVG" align="right" /></a>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75656&random=false&width=435&lines=I'm+glad+to+see+you%2C" alt="Typing SVG" align="left" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75656&random=false&width=435&lines=I'm+glad+to+see+you%2C" alt="Typing SVG" align="left" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=DD0CF7&random=false&width=435&lines=I'm+Alex"  alt="Typing SVG" align="right" /></a>
 </div>
 <br>
@@ -36,8 +35,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Software%20QA%20Automation%20Engineer;Experienced%20UI%20and%20API%20Tester;Always%20learning%20new%20things%20:)&font=Fira%20Code&center=true&width=440&height=45&color=FFA500&vCenter=true&pause=1000&size=22" /></a>
 
 <br> 
-<br>
-<br>
 
 
 
