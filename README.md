@@ -27,13 +27,12 @@
 <div>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="200" align="right"/>
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" height="200" align="left"/>
-
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4000&pause=1000&random=false&width=500&height=60&lines=I'm+QA+Software+Engineer+with+experience+in+QA+Automation+and+Manual+Testing;QA+Automation+and+Manual+Testing" alt="Typing SVG" align="centre" /></a>
+</div>
   <b>
-  
- 
- 
-</div>  
+ </div>
+ <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20QA%20Automation%20Engineer;Experienced%20UI%20and%20API%20Tester;Always%20learning%20new%20things%20:)&font=Fira%20Code&center=true&width=440&height=45&color=FFA500&vCenter=true&pause=1000&size=22" /></a>
 
 <br> 
 <br>
